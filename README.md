@@ -15,7 +15,7 @@ npm run demo
 
 ### Explanations of development process
 
-1. I have utilized JavaScript as coding language and Jest testing framework to complete this task. Meanwhile, I did a simple jest setup (created: `jest.config.json`) for my codebase in order to run test successfully.
+1. I have utilized `JavaScript` as coding language and `Jest` testing framework to complete this task. Meanwhile, I did a simple jest setup (created: `jest.config.json`) for my codebase in order to run the unit tests successfully.
 
 
 2. I have started with writing unit test file (`fizzBuzz.spec.js`) first, created 5 test cases:
@@ -25,7 +25,7 @@ npm run demo
   - when to show Buzz
   - when to show FizzBuzz
 
-- When I run the unit test, I also followed the Triple A standard (`Arrange`, `Act`, `Assert`)
+- When I write the unit tests, I also followed the Triple A standard (`Arrange`, `Act`, `Assert`)
 
 
 3. <strong>Then, I run `npm run test`, the output should be all failed by default, because I haven't added the actual code logic yet.</strong> 

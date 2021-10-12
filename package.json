@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "demo": "node utils/index.js",
-    "test": "jest --config ./jest.config.json"
+    "test": "jest --config ./jest.config.json",
+    "bump": "npm version"
   },
   "keywords": [],
   "author": "",
